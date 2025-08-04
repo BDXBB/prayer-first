@@ -1,0 +1,36 @@
+{
+  "name": "prayer-first",
+  "version": "1.0.1",
+  "description": "Prayer times for all cities based on location for developers only",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prayer",
+    "islam",
+    "salat",
+    "times",
+    "kurdish",
+    "prayer-kurdish",
+    "prayer-time",
+    "prayer-times"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BDXBB/prayer-first.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BDXBB/prayer-first/issues"
+  },
+  "homepage": "https://github.com/BDXBB/prayer-first#readme",
+  "author": "Atta-dev",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "express": "^5.1.0"
+  },
+  "directories": {
+    "example": "examples"
+  }
+}
