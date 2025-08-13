@@ -1,7 +1,13 @@
-const path = require('path');
-const Database = require('better-sqlite3');
-const {getDistanceLatLonInKm  ,parseDate} = require('./utils');
+import path from 'path';
+import { fileURLToPath } from 'url';
+import Database from 'better-sqlite3';
+import { getDistanceLatLonInKm, parseDate } from './utils.js';
+
 // db path
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 const dbPath = path.join(__dirname, 'muslim_db_v2.5.1.db');
 const Db = new Database(dbPath);
 
@@ -139,4 +145,4 @@ function getDbPrayerTime(location_id, date, month, year) {
 
 
 
-module.exports = { findClosestCity, findCity, getDbPrayerTime };
+export { findClosestCity, findCity, getDbPrayerTime };

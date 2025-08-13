@@ -1,9 +1,9 @@
-const {PrayerTimes} = require('./prayerCalculator');
-const { findClosestCity, findCity, getDbPrayerTime } = require('./db');
-const { toradians, getDistanceLatLonInKm, parseDate , to12Hour} = require('./utils');
-const { getPrayerTime, getPrayerTimeByCity, midNightAndLastThird } = require('./prayerUtils');
+import {PrayerTimes} from './prayerCalculator.js';
+import { findClosestCity, findCity, getDbPrayerTime } from './db.js';
+import { toradians, getDistanceLatLonInKm, parseDate , to12Hour} from './utils.js';
+import { getPrayerTime, getPrayerTimeByCity, midNightAndLastThird } from './prayerUtils.js';
 
-module.exports = {
+export {
   PrayerTimes,
   findClosestCity,
   findCity,

@@ -1,4 +1,4 @@
-const { findClosestCity, findCity, getDbPrayerTime } = require('./db');
+import { findClosestCity, findCity, getDbPrayerTime } from './db.js';
 
 // findClosestCity & get Prayer Time Based on database fixed prayer times //
 function getPrayerTime(latitude, longitude, day, month, year, GetmidNightAndLastThird){
@@ -89,4 +89,4 @@ function midNightAndLastThird(maghribTime, fajrTime) {
 }
 
 
-module.exports = { getPrayerTime, getPrayerTimeByCity, midNightAndLastThird };
+export { getPrayerTime, getPrayerTimeByCity, midNightAndLastThird };

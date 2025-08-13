@@ -63,4 +63,4 @@ function parseDate(inputDate, dbFormat = "MM-DD") {
 
 //              parsing date                //
 
-module.exports = { toradians,to12Hour, getDistanceLatLonInKm ,parseDate};
+export { toradians,to12Hour, getDistanceLatLonInKm ,parseDate};

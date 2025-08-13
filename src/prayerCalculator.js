@@ -281,4 +281,4 @@ class PrayerTimes {
 }
 
 
-module.exports = { PrayerTimes }
+export { PrayerTimes }
