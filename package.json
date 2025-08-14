@@ -1,6 +1,6 @@
 {
   "name": "prayer-first",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prayer times for all cities based on location for developers only",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -10,9 +10,8 @@
   },
   "type": "module",
   "scripts": {
-    "build:cjs": "babel src --out-dir dist/cjs --presets=@babel/preset-env --plugins=@babel/plugin-transform-modules-commonjs",
-    "build:esm": "babel src --out-dir dist/esm --presets=@babel/preset-env",
-    "build": "npm run build:cjs && npm run build:esm",
+    "copy-db": "powershell -Command \"Copy-Item -Path src/muslim_db_v2.5.1.db -Destination dist/cjs/; Copy-Item -Path src/muslim_db_v2.5.1.db -Destination dist/esm/\"",
+    "build": "rollup -c && npm run copy-db",
     "prepare": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -44,13 +43,10 @@
   "dependencies": {
     "better-sqlite3": "^12.2.0"
   },
-  "devDependencies": {
-    "@babel/cli": "^7.23.0",
-    "@babel/core": "^7.23.0",
-    "@babel/preset-env": "^7.23.0",
-    "@babel/plugin-transform-modules-commonjs": "^7.23.0"
-  },
   "directories": {
     "example": "examples"
+  },
+  "devDependencies": {
+    "rollup": "^4.46.2"
   }
 }
