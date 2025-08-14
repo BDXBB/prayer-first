@@ -14,10 +14,19 @@ npm install prayer-first
 
 ### Import the library and functions
 
+#### If you're using CommonJS (require)
+
 ```js
 const { PrayerTimes , getPrayerTime, getPrayerTimeByCity} = require('prayer-first');
 ```
 
+#### If you're using ES Modules (import)
+
+```js
+import { PrayerTimes, getPrayerTime, getPrayerTimeByCity } from 'prayer-first';
+```
+
+## Examples using CommonJS
 ### Get Prayer Times by Latitude and Longitude
 
  ```js
