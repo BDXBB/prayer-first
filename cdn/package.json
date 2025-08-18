@@ -1,5 +1,8 @@
 {
   "type": "module",
+  "scripts": {
+  "extract": "node scripts/extract-json.js"
+},
   "dependencies": {
     "better-sqlite3": "^12.2.0"
   }

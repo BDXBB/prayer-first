@@ -1,0 +1,2225 @@
+[
+  {
+    "prayer_dependent_id": null,
+    "latitude": 37.147924,
+    "longitude": 42.675242,
+    "location_id": 77336,
+    "city_name": "Zakho",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77340,
+    "latitude": 36.860475,
+    "longitude": 42.847569,
+    "location_id": 77337,
+    "city_name": "Sumel",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77349,
+    "latitude": 37.046605,
+    "longitude": 43.339543,
+    "location_id": 77338,
+    "city_name": "Sersink",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77340,
+    "latitude": 36.90475,
+    "longitude": 43.135822,
+    "location_id": 77339,
+    "city_name": "Zawita",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.864459,
+    "longitude": 42.952253,
+    "location_id": 77340,
+    "city_name": "Duhok",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77349,
+    "latitude": 37.091918,
+    "longitude": 43.488059,
+    "location_id": 77341,
+    "city_name": "Amedi",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77349,
+    "latitude": 37.102543,
+    "longitude": 43.480474,
+    "location_id": 77342,
+    "city_name": "Sulav",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77349,
+    "latitude": 37.083358,
+    "longitude": 43.524828,
+    "location_id": 77343,
+    "city_name": "Kani",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77349,
+    "latitude": 37.032706,
+    "longitude": 43.776599,
+    "location_id": 77344,
+    "city_name": "Sheladiz",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77349,
+    "latitude": 36.926294,
+    "longitude": 44.041055,
+    "location_id": 77345,
+    "city_name": "Barzan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77349,
+    "latitude": 36.867898,
+    "longitude": 44.066349,
+    "location_id": 77346,
+    "city_name": "Bele",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77349,
+    "latitude": 36.801285,
+    "longitude": 44.24411,
+    "location_id": 77347,
+    "city_name": "Shanidar",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77349,
+    "latitude": 36.726636,
+    "longitude": 44.016236,
+    "location_id": 77348,
+    "city_name": "Bujal",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.740582,
+    "longitude": 43.880883,
+    "location_id": 77349,
+    "city_name": "Akre",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77349,
+    "latitude": 36.717913,
+    "longitude": 43.951507,
+    "location_id": 77350,
+    "city_name": "Mergin",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77349,
+    "latitude": 36.756072,
+    "longitude": 43.822565,
+    "location_id": 77351,
+    "city_name": "Susna",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77353,
+    "latitude": 36.545404,
+    "longitude": 43.621234,
+    "location_id": 77352,
+    "city_name": "Mamuzin",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.501899,
+    "longitude": 43.584857,
+    "location_id": 77353,
+    "city_name": "Bardarash",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.700082,
+    "longitude": 43.598164,
+    "location_id": 77354,
+    "city_name": "Qasrok",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77340,
+    "latitude": 36.762,
+    "longitude": 43.519171,
+    "location_id": 77355,
+    "city_name": "Mrebah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77340,
+    "latitude": 36.836612,
+    "longitude": 43.334649,
+    "location_id": 77356,
+    "city_name": "Atrish",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77340,
+    "latitude": 36.789233,
+    "longitude": 42.972455,
+    "location_id": 77357,
+    "city_name": "Sharya",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.271715,
+    "longitude": 43.673707,
+    "location_id": 77358,
+    "city_name": "Kalak",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.191196,
+    "longitude": 44.009962,
+    "location_id": 77359,
+    "city_name": "Erbil",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.385936,
+    "longitude": 44.195972,
+    "location_id": 77360,
+    "city_name": "Pirmam",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.409062,
+    "longitude": 44.31969,
+    "location_id": 77361,
+    "city_name": "Shaqlawa",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.552303,
+    "longitude": 44.347129,
+    "location_id": 77362,
+    "city_name": "Harir",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.598883,
+    "longitude": 44.403552,
+    "location_id": 77363,
+    "city_name": "Khalifan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.6086,
+    "longitude": 44.52399,
+    "location_id": 77364,
+    "city_name": "Rawanduz",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.652686,
+    "longitude": 44.541427,
+    "location_id": 77365,
+    "city_name": "Soran",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.838219,
+    "longitude": 44.306498,
+    "location_id": 77366,
+    "city_name": "Mergasur",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.614242,
+    "longitude": 44.821719,
+    "location_id": 77367,
+    "city_name": "Galala",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.637452,
+    "longitude": 44.88922,
+    "location_id": 77368,
+    "city_name": "Choman",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.282785,
+    "longitude": 44.498759,
+    "location_id": 77369,
+    "city_name": "Hiran",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.774976,
+    "longitude": 43.581016,
+    "location_id": 77370,
+    "city_name": "Makhmur",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 35.993276,
+    "longitude": 44.038202,
+    "location_id": 77371,
+    "city_name": "Qushtapa",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.078097,
+    "longitude": 44.628836,
+    "location_id": 77372,
+    "city_name": "Koysinjaq",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77376,
+    "latitude": 35.885993,
+    "longitude": 44.590722,
+    "location_id": 77373,
+    "city_name": "Taqtaq",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77376,
+    "latitude": 36.234471,
+    "longitude": 44.79105,
+    "location_id": 77374,
+    "city_name": "Hajiawa",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77376,
+    "latitude": 36.211803,
+    "longitude": 44.834826,
+    "location_id": 77375,
+    "city_name": "Chwarqurna",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.239021,
+    "longitude": 44.885666,
+    "location_id": 77376,
+    "city_name": "Ranya",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77379,
+    "latitude": 36.248426,
+    "longitude": 45.017633,
+    "location_id": 77377,
+    "city_name": "Sangasar",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77379,
+    "latitude": 36.223127,
+    "longitude": 45.066965,
+    "location_id": 77378,
+    "city_name": "Zharawa",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.182552,
+    "longitude": 45.129412,
+    "location_id": 77379,
+    "city_name": "Qaladiza",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77376,
+    "latitude": 36.017958,
+    "longitude": 44.838777,
+    "location_id": 77380,
+    "city_name": "Khalakan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.944303,
+    "longitude": 44.967845,
+    "location_id": 77381,
+    "city_name": "Dokan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.557811,
+    "longitude": 45.423328,
+    "location_id": 77382,
+    "city_name": "Sulaymaniyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77379,
+    "latitude": 35.592152,
+    "longitude": 45.141148,
+    "location_id": 77383,
+    "city_name": "Bazian",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.52918,
+    "longitude": 44.821973,
+    "location_id": 77384,
+    "city_name": "Chamchamal",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.464938,
+    "longitude": 44.38188,
+    "location_id": 77385,
+    "city_name": "Kirkuk",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77385,
+    "latitude": 35.298737,
+    "longitude": 44.331191,
+    "location_id": 77386,
+    "city_name": "Taza Khurmatu",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77397,
+    "latitude": 35.30877,
+    "longitude": 45.391426,
+    "location_id": 77387,
+    "city_name": "Qara Dagh",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77382,
+    "latitude": 35.425024,
+    "longitude": 45.584423,
+    "location_id": 77388,
+    "city_name": "Arbat",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.626856,
+    "longitude": 45.944991,
+    "location_id": 77389,
+    "city_name": "Penjwen",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77389,
+    "latitude": 35.363157,
+    "longitude": 45.862022,
+    "location_id": 77390,
+    "city_name": "Said Sadiq",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77397,
+    "latitude": 35.315207,
+    "longitude": 45.674062,
+    "location_id": 77391,
+    "city_name": "Zarayan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77396,
+    "latitude": 35.297017,
+    "longitude": 46.038894,
+    "location_id": 77392,
+    "city_name": "Khurmal",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77396,
+    "latitude": 35.251688,
+    "longitude": 45.940381,
+    "location_id": 77393,
+    "city_name": "Sirwan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77396,
+    "latitude": 35.225043,
+    "longitude": 46.115884,
+    "location_id": 77394,
+    "city_name": "Byara",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77396,
+    "latitude": 35.201619,
+    "longitude": 46.184656,
+    "location_id": 77395,
+    "city_name": "Tawella",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.175189,
+    "longitude": 45.986108,
+    "location_id": 77396,
+    "city_name": "Halabja",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.111483,
+    "longitude": 45.686889,
+    "location_id": 77397,
+    "city_name": "Darbandikhan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.630423,
+    "longitude": 45.32757,
+    "location_id": 77398,
+    "city_name": "Kalar",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.688381,
+    "longitude": 44.958424,
+    "location_id": 77399,
+    "city_name": "Kifri",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.882439,
+    "longitude": 44.62512,
+    "location_id": 77400,
+    "city_name": "Tuz Khurma",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.353692,
+    "longitude": 45.383898,
+    "location_id": 77401,
+    "city_name": "Khanaqin",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.17649,
+    "longitude": 48.39775,
+    "location_id": 77402,
+    "city_name": "Nahiyat Bahar",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.96588,
+    "longitude": 47.00196,
+    "location_id": 77403,
+    "city_name": "Al Jabayish",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.48117,
+    "longitude": 48.01424,
+    "location_id": 77404,
+    "city_name": "Nahiyat `Atbah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 29.97421,
+    "longitude": 48.47309,
+    "location_id": 77405,
+    "city_name": "Al-Faw",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.44636,
+    "longitude": 47.97813,
+    "location_id": 77406,
+    "city_name": "Abi al Khasib",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.89086,
+    "longitude": 46.45425,
+    "location_id": 77407,
+    "city_name": "Suq ash Shuyukh",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.96972,
+    "longitude": 46.72278,
+    "location_id": 77408,
+    "city_name": "Nahiyat al Fuhud",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.58481,
+    "longitude": 47.76114,
+    "location_id": 77409,
+    "city_name": "Al Harithah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.12287,
+    "longitude": 46.74928,
+    "location_id": 77410,
+    "city_name": "Nahiyat Ali ash Sharqi",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.96324,
+    "longitude": 47.26998,
+    "location_id": 77411,
+    "city_name": "Al Madinah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.01547,
+    "longitude": 47.43362,
+    "location_id": 77412,
+    "city_name": "Al Qurnah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.50667,
+    "longitude": 47.791941,
+    "location_id": 77413,
+    "city_name": "Basrah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.03942,
+    "longitude": 46.267116,
+    "location_id": 77414,
+    "city_name": "Nasiriyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.52802,
+    "longitude": 47.29362,
+    "location_id": 77416,
+    "city_name": "Qal`at Salih",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.679,
+    "longitude": 46.96948,
+    "location_id": 77417,
+    "city_name": "Al Maymunah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.83588,
+    "longitude": 47.14399,
+    "location_id": 77418,
+    "city_name": "Amarah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.66789,
+    "longitude": 47.2945,
+    "location_id": 77419,
+    "city_name": "Al Kahla'",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.72079,
+    "longitude": 46.10778,
+    "location_id": 77420,
+    "city_name": "Ar Rifa`i",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.40906,
+    "longitude": 46.1727,
+    "location_id": 77421,
+    "city_name": "Shatrah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.39213,
+    "longitude": 47.70175,
+    "location_id": 77422,
+    "city_name": "Az Zubayr",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.0362,
+    "longitude": 47.91951,
+    "location_id": 77423,
+    "city_name": "Umm Qasr",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.46186,
+    "longitude": 46.68794,
+    "location_id": 77424,
+    "city_name": "`Ali al Gharbi",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.315245,
+    "longitude": 45.279893,
+    "location_id": 77425,
+    "city_name": "Samawah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.74311,
+    "longitude": 44.6196,
+    "location_id": 77426,
+    "city_name": "Nahiyat Ghammas",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.52845,
+    "longitude": 45.20377,
+    "location_id": 77427,
+    "city_name": "Rumaythah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.17419,
+    "longitude": 46.04345,
+    "location_id": 77428,
+    "city_name": "Al-Hayy",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.58376,
+    "longitude": 44.64675,
+    "location_id": 77429,
+    "city_name": "Nahiyat ash Shinafiyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.512042,
+    "longitude": 45.840709,
+    "location_id": 77430,
+    "city_name": "Kut",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.96257,
+    "longitude": 44.60075,
+    "location_id": 77431,
+    "city_name": "Shamiyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.72444,
+    "longitude": 44.97694,
+    "location_id": 77432,
+    "city_name": "Al Hamzah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.05114,
+    "longitude": 44.44017,
+    "location_id": 77433,
+    "city_name": "Kufa",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.80437,
+    "longitude": 44.4893,
+    "location_id": 77434,
+    "city_name": "Al Mishkhab",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.987033,
+    "longitude": 44.918549,
+    "location_id": 77435,
+    "city_name": "Diwaniyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.0643,
+    "longitude": 45.24743,
+    "location_id": 77436,
+    "city_name": "`Afak",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.90692,
+    "longitude": 44.48649,
+    "location_id": 77437,
+    "city_name": "Al Manadhirah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.55621,
+    "longitude": 45.41293,
+    "location_id": 77438,
+    "city_name": "An Nu`maniyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.36351,
+    "longitude": 44.66011,
+    "location_id": 77439,
+    "city_name": "Al Hashimiyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.90941,
+    "longitude": 45.06359,
+    "location_id": 77440,
+    "city_name": "Aziziyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.66138,
+    "longitude": 44.40854,
+    "location_id": 77441,
+    "city_name": "Al Mahawil",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.29799,
+    "longitude": 44.68282,
+    "location_id": 77442,
+    "city_name": "Imam Qasim",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.603635,
+    "longitude": 44.009728,
+    "location_id": 77443,
+    "city_name": "Karbala",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.92556,
+    "longitude": 44.77583,
+    "location_id": 77444,
+    "city_name": "As Suwayrah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.476299,
+    "longitude": 44.424505,
+    "location_id": 77445,
+    "city_name": "Hillah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.06221,
+    "longitude": 44.36564,
+    "location_id": 77446,
+    "city_name": "Mahmudiyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.54671,
+    "longitude": 44.22765,
+    "location_id": 77447,
+    "city_name": "Hindiyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.71557,
+    "longitude": 44.27857,
+    "location_id": 77448,
+    "city_name": "Nahiyat Saddat al Hindiyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.77872,
+    "longitude": 44.29005,
+    "location_id": 77449,
+    "city_name": "Musayyib",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.023891,
+    "longitude": 44.331035,
+    "location_id": 77450,
+    "city_name": "Najaf",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.67444,
+    "longitude": 44.39583,
+    "location_id": 77451,
+    "city_name": "Tarmiyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.34058,
+    "longitude": 44.40088,
+    "location_id": 77452,
+    "city_name": "Baghdad",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.30563,
+    "longitude": 44.18477,
+    "location_id": 77453,
+    "city_name": "Abu Ghraib",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.69631,
+    "longitude": 45.07782,
+    "location_id": 77454,
+    "city_name": "Baladruz",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.34913,
+    "longitude": 43.78599,
+    "location_id": 77456,
+    "city_name": "Al-Fallujah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.84667,
+    "longitude": 44.23444,
+    "location_id": 77457,
+    "city_name": "Ad Dujayl",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.85118,
+    "longitude": 44.52047,
+    "location_id": 77458,
+    "city_name": "Khalis",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.752056,
+    "longitude": 44.607344,
+    "location_id": 77459,
+    "city_name": "Baqubah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.038832,
+    "longitude": 46.268146,
+    "location_id": 77460,
+    "city_name": "Ramadi",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.01485,
+    "longitude": 44.14574,
+    "location_id": 77461,
+    "city_name": "Balad",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.97861,
+    "longitude": 44.93694,
+    "location_id": 77462,
+    "city_name": "Miqdadiyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.11508,
+    "longitude": 45.93344,
+    "location_id": 77463,
+    "city_name": "Badrah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.63664,
+    "longitude": 42.82768,
+    "location_id": 77464,
+    "city_name": "Hit",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.56687,
+    "longitude": 43.48815,
+    "location_id": 77465,
+    "city_name": "`Ayn Tamr",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.53333,
+    "longitude": 43.73333,
+    "location_id": 77466,
+    "city_name": "Al `Awjah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.1959,
+    "longitude": 43.88568,
+    "location_id": 77467,
+    "city_name": "Samarra",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.45597,
+    "longitude": 43.79341,
+    "location_id": 77468,
+    "city_name": "Ad Dawr",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.616302,
+    "longitude": 43.672498,
+    "location_id": 77469,
+    "city_name": "Tikrit",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.92915,
+    "longitude": 43.48878,
+    "location_id": 77470,
+    "city_name": "Baiji",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.13477,
+    "longitude": 42.37724,
+    "location_id": 77471,
+    "city_name": "Hadithah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.7481,
+    "longitude": 45.55503,
+    "location_id": 77472,
+    "city_name": "Mandali",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.51722,
+    "longitude": 43.22806,
+    "location_id": 77473,
+    "city_name": "Ash Sharqat",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.46934,
+    "longitude": 41.94223,
+    "location_id": 77474,
+    "city_name": "`Anat al Qadimah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.36321,
+    "longitude": 41.99821,
+    "location_id": 77475,
+    "city_name": "Anah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.318649,
+    "longitude": 41.15596,
+    "location_id": 77476,
+    "city_name": "Qa'im",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.479351,
+    "longitude": 41.914687,
+    "location_id": 77477,
+    "city_name": "Rawa",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.32592,
+    "longitude": 43.77267,
+    "location_id": 77478,
+    "city_name": "Hawijah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.50464,
+    "longitude": 44.53943,
+    "location_id": 77479,
+    "city_name": "As Salman",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.5729,
+    "longitude": 42.73395,
+    "location_id": 77480,
+    "city_name": "Al Hadar",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.13923,
+    "longitude": 44.44907,
+    "location_id": 77481,
+    "city_name": "Daquq",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.349836,
+    "longitude": 43.162277,
+    "location_id": 77482,
+    "city_name": "Mosul",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.67482,
+    "longitude": 44.07067,
+    "location_id": 77483,
+    "city_name": "Dibis",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.33306,
+    "longitude": 43.1049,
+    "location_id": 77484,
+    "city_name": "Al Mawsil al Jadidah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.27093,
+    "longitude": 43.37758,
+    "location_id": 77485,
+    "city_name": "Al-Hamdaniya",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.49109,
+    "longitude": 43.12026,
+    "location_id": 77486,
+    "city_name": "Tallkayf",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.0426,
+    "longitude": 41.71632,
+    "location_id": 77487,
+    "city_name": "Al Ba`aj",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.37913,
+    "longitude": 42.44806,
+    "location_id": 77488,
+    "city_name": "Tall `Afar",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.85823,
+    "longitude": 42.8482,
+    "location_id": 77489,
+    "city_name": "Saymayl",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.69595,
+    "longitude": 43.35202,
+    "location_id": 77490,
+    "city_name": "Al-Shikhan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.80752,
+    "longitude": 43.03831,
+    "location_id": 77492,
+    "city_name": "Sinah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.03718,
+    "longitude": 40.28586,
+    "location_id": 77493,
+    "city_name": "Rutba",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.73322,
+    "longitude": 43.87964,
+    "location_id": 77495,
+    "city_name": "'Aqrah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77382,
+    "latitude": 35.901606,
+    "longitude": 45.41387,
+    "location_id": 77497,
+    "city_name": "Mawat",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.62329,
+    "longitude": 45.94714,
+    "location_id": 77498,
+    "city_name": "Baynjiwayn",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 37.12163,
+    "longitude": 43.2709,
+    "location_id": 77499,
+    "city_name": "Bamarni",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.04054,
+    "longitude": 47.91677,
+    "location_id": 154868,
+    "city_name": "Umm Qasr",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.48944,
+    "longitude": 43.11917,
+    "location_id": 154870,
+    "city_name": "Qada' Talkif",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.80902,
+    "longitude": 43.03886,
+    "location_id": 154871,
+    "city_name": "Sinah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.27146,
+    "longitude": 43.37373,
+    "location_id": 154875,
+    "city_name": "Qada' al Hamdaniyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.39447,
+    "longitude": 47.70114,
+    "location_id": 154881,
+    "city_name": "Az Zubayr",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.9892,
+    "longitude": 44.3291,
+    "location_id": 154884,
+    "city_name": "An Najaf al Ashraf",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.33464,
+    "longitude": 43.09777,
+    "location_id": 154886,
+    "city_name": "Al Mawsil al Jadidah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.57232,
+    "longitude": 47.17529,
+    "location_id": 154887,
+    "city_name": "Al Majar al Kabir",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.71861,
+    "longitude": 47.72083,
+    "location_id": 154889,
+    "city_name": "Al Harithah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.49721,
+    "longitude": 47.81491,
+    "location_id": 154892,
+    "city_name": "Al Basrat al Qadimah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.32092,
+    "longitude": 41.87542,
+    "location_id": 154893,
+    "city_name": "Sinjar",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.28008,
+    "longitude": 44.49283,
+    "location_id": 154894,
+    "city_name": "Nahiyat Hiran",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.17864,
+    "longitude": 48.39769,
+    "location_id": 154895,
+    "city_name": "Nahiyat Bahar",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77384,
+    "latitude": 35.501234,
+    "longitude": 44.852144,
+    "location_id": 166380,
+    "city_name": "Shorsh",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77384,
+    "latitude": 35.627297,
+    "longitude": 44.962323,
+    "location_id": 166383,
+    "city_name": "Takiya",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77359,
+    "latitude": 36.205194,
+    "longitude": 44.140975,
+    "location_id": 166416,
+    "city_name": "Kasnazan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.123227,
+    "longitude": 46.11629,
+    "location_id": 166450,
+    "city_name": "Al Bussayyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.072531,
+    "longitude": 44.255914,
+    "location_id": 166451,
+    "city_name": "Al Duloiya",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.916328,
+    "longitude": 45.968556,
+    "location_id": 166452,
+    "city_name": "Al Fajr",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.798548,
+    "longitude": 43.292226,
+    "location_id": 166453,
+    "city_name": "Al Qayyarah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.505771,
+    "longitude": 44.538646,
+    "location_id": 166454,
+    "city_name": "Al Salman",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.511795,
+    "longitude": 43.221356,
+    "location_id": 166455,
+    "city_name": "Al Shirqat",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.266886,
+    "longitude": 43.453002,
+    "location_id": 166456,
+    "city_name": "Al Zab",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 31.198962,
+    "longitude": 45.539424,
+    "location_id": 166457,
+    "city_name": "Al-Khidhir",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.229281,
+    "longitude": 44.381858,
+    "location_id": 166458,
+    "city_name": "Al-Kifl",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.041363,
+    "longitude": 42.255485,
+    "location_id": 166460,
+    "city_name": "Al-Nukhib",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.877516,
+    "longitude": 42.531084,
+    "location_id": 166461,
+    "city_name": "Albaghdadi",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.464363,
+    "longitude": 46.686078,
+    "location_id": 166462,
+    "city_name": "Ali Al-Garbi",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.164551,
+    "longitude": 43.864545,
+    "location_id": 166463,
+    "city_name": "Amiriyat Fallujah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.485342,
+    "longitude": 44.500766,
+    "location_id": 166464,
+    "city_name": "Azim Castle",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.043775,
+    "longitude": 41.71572,
+    "location_id": 166465,
+    "city_name": "Baa'j",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.68817,
+    "longitude": 45.067676,
+    "location_id": 166466,
+    "city_name": "Bald Ruz",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.925587,
+    "longitude": 44.771258,
+    "location_id": 166467,
+    "city_name": "Essaouira",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.381662,
+    "longitude": 43.582464,
+    "location_id": 166468,
+    "city_name": "Habbaniyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 34.2739,
+    "longitude": 45.16608,
+    "location_id": 166470,
+    "city_name": "Jalawla",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.592346,
+    "longitude": 42.60586,
+    "location_id": 166471,
+    "city_name": "Kubaysah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 33.099539,
+    "longitude": 44.580976,
+    "location_id": 166472,
+    "city_name": "Madain",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.630381,
+    "longitude": 42.823462,
+    "location_id": 166473,
+    "city_name": "Mosul Dam",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.265894,
+    "longitude": 42.706085,
+    "location_id": 166474,
+    "city_name": "Muhallabiyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.545093,
+    "longitude": 45.407996,
+    "location_id": 166475,
+    "city_name": "Numaniyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.198543,
+    "longitude": 44.889157,
+    "location_id": 166476,
+    "city_name": "Qadir Karam",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.493642,
+    "longitude": 44.639189,
+    "location_id": 166477,
+    "city_name": "Qara Hanjir",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.806878,
+    "longitude": 42.092399,
+    "location_id": 166478,
+    "city_name": "Rabia",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 32.733016,
+    "longitude": 43.373165,
+    "location_id": 166480,
+    "city_name": "Rahhaliyah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 30.894039,
+    "longitude": 46.48074,
+    "location_id": 166481,
+    "city_name": "Suq Al-Shuyukh",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.363357,
+    "longitude": 42.404328,
+    "location_id": 166482,
+    "city_name": "Tal Afar",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77384,
+    "latitude": 35.349088,
+    "longitude": 44.798234,
+    "location_id": 166483,
+    "city_name": "Takiay Jabari",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77384,
+    "latitude": 35.749927,
+    "longitude": 44.898744,
+    "location_id": 166484,
+    "city_name": "Aghjalar",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77384,
+    "latitude": 35.287195,
+    "longitude": 45.172174,
+    "location_id": 166485,
+    "city_name": "Sangaw",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77379,
+    "latitude": 36.209738,
+    "longitude": 45.257486,
+    "location_id": 166486,
+    "city_name": "Halsho",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77379,
+    "latitude": 36.142686,
+    "longitude": 45.093051,
+    "location_id": 166487,
+    "city_name": "Nawdasht",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77381,
+    "latitude": 35.734702,
+    "longitude": 45.140848,
+    "location_id": 166488,
+    "city_name": "Piramagroon",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77379,
+    "latitude": 35.596111,
+    "longitude": 45.229682,
+    "location_id": 166489,
+    "city_name": "Tasluja",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77376,
+    "latitude": 36.29605,
+    "longitude": 44.818746,
+    "location_id": 166490,
+    "city_name": "Sarkapkan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77376,
+    "latitude": 36.174302,
+    "longitude": 44.688466,
+    "location_id": 166491,
+    "city_name": "Hizop",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77397,
+    "latitude": 35.682585,
+    "longitude": 45.688401,
+    "location_id": 166492,
+    "city_name": "Zalan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77397,
+    "latitude": 35.797774,
+    "longitude": 45.355969,
+    "location_id": 166493,
+    "city_name": "Gapilon",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77397,
+    "latitude": 35.7207,
+    "longitude": 45.564988,
+    "location_id": 166494,
+    "city_name": "Chwarta",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77397,
+    "latitude": 35.543411,
+    "longitude": 45.691446,
+    "location_id": 166495,
+    "city_name": "Barzinjah",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77397,
+    "latitude": 35.320557,
+    "longitude": 45.68802,
+    "location_id": 166496,
+    "city_name": "Halebjai Taza",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77389,
+    "latitude": 35.723561,
+    "longitude": 45.949727,
+    "location_id": 166497,
+    "city_name": "Garmk",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77389,
+    "latitude": 35.578364,
+    "longitude": 45.853758,
+    "location_id": 166498,
+    "city_name": "Nalparez",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77389,
+    "latitude": 34.979608,
+    "longitude": 45.848423,
+    "location_id": 166499,
+    "city_name": "Pshta",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 35.711501,
+    "longitude": 46.086535,
+    "location_id": 166500,
+    "city_name": "Gokhlan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77396,
+    "latitude": 35.200748,
+    "longitude": 46.14962,
+    "location_id": 166501,
+    "city_name": "Balkha",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": null,
+    "latitude": 36.557804,
+    "longitude": 44.827805,
+    "location_id": 166502,
+    "city_name": "Qasre",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.550628,
+    "longitude": 44.856654,
+    "location_id": 166503,
+    "city_name": "Wallze",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.552206,
+    "longitude": 44.839131,
+    "location_id": 166504,
+    "city_name": "Soraban",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.357405,
+    "longitude": 44.139184,
+    "location_id": 166505,
+    "city_name": "Shnawa",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.58924,
+    "longitude": 44.809085,
+    "location_id": 166506,
+    "city_name": "Rashdur",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.563641,
+    "longitude": 44.818322,
+    "location_id": 166507,
+    "city_name": "Makosan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.57148,
+    "longitude": 44.814548,
+    "location_id": 166508,
+    "city_name": "Saya",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.57834,
+    "longitude": 44.852248,
+    "location_id": 166509,
+    "city_name": "Walash",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.505418,
+    "longitude": 44.862813,
+    "location_id": 166510,
+    "city_name": "Eskawa",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.49647,
+    "longitude": 44.891613,
+    "location_id": 166511,
+    "city_name": "Xazena",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.516023,
+    "longitude": 44.830028,
+    "location_id": 166512,
+    "city_name": "Dilman",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.510448,
+    "longitude": 44.902,
+    "location_id": 166513,
+    "city_name": "Sarkan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.525358,
+    "longitude": 44.841382,
+    "location_id": 166514,
+    "city_name": "Chomsak",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.502951,
+    "longitude": 44.874287,
+    "location_id": 166515,
+    "city_name": "Qalat",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.516636,
+    "longitude": 44.90229,
+    "location_id": 166516,
+    "city_name": "Koila",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.50046,
+    "longitude": 44.894216,
+    "location_id": 166517,
+    "city_name": "Mawnan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.519649,
+    "longitude": 44.854975,
+    "location_id": 166518,
+    "city_name": "Wasan",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.49711,
+    "longitude": 44.923333,
+    "location_id": 166519,
+    "city_name": "Choma",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.596294,
+    "longitude": 44.823776,
+    "location_id": 166520,
+    "city_name": "Mergay Khwaru",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 166502,
+    "latitude": 36.546547,
+    "longitude": 44.877656,
+    "location_id": 166521,
+    "city_name": "Kani bast",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77379,
+    "latitude": 36.066342,
+    "longitude": 45.044723,
+    "location_id": 166522,
+    "city_name": "Bngrd",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77379,
+    "latitude": 36.120132,
+    "longitude": 45.278472,
+    "location_id": 166523,
+    "city_name": "Hero",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "prayer_dependent_id": 77353,
+    "latitude": 36.620406,
+    "longitude": 43.702053,
+    "location_id": 166524,
+    "city_name": "Rovia",
+    "country_name": "Iraq",
+    "country_code": "IQ"
+  }
+]
