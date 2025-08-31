@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>prayer times</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      direction: ltr;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+    }
+    select, button {
+      padding: 10px;
+      font-size: 16px;
+      margin-bottom: 20px;
+      width: 100%;
+    }
+    .prayer-times {
+      background: #f0f0f0;
+      padding: 15px;
+      border-radius: 6px;
+    }
+    .prayer-times h2 {
+      margin-top: 0;
+    }
+    .prayer-times div {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>prayer times</h1>
+
+  <label for="city-select">Select City</label>
+  <select id="city-select">
+    <option value="erbil">erbil</option>
+    <option value="sulaymaniyah">sulaymaniyah</option>
+    <option value="halabja">halabja</option>
+    <option value="baghdad">baghdad</option>
+    <option value="dohuk">dohuk</option>
+  </select>
+
+  <button id="show-prayers">View</button>
+
+  <div class="prayer-times" id="prayer-times" style="display:none;">
+    <h2>Times</h2>
+    <div><strong>fajr:</strong> <span id="fajr"></span></div>
+    <div><strong>sunrise:</strong> <span id="sunrise"></span></div>
+    <div><strong>dhuhr:</strong> <span id="dhuhr"></span></div>
+    <div><strong>asr:</strong> <span id="asr"></span></div>
+    <div><strong>maghrib:</strong> <span id="maghrib"></span></div>
+    <div><strong>isha:</strong> <span id="isha"></span></div>
+    <div><strong>midnight:</strong> <span id="midnight"></span></div>
+    <div><strong>lastThird:</strong> <span id="lastThird"></span></div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/gh/BDXBB/prayer-first@v1.0.2/cdn/main.js"></script>
+  <script>
+    // Locations
+    const cities = {
+      erbil: { lat: 36.19, lon: 44.01 },
+      sulaymaniyah: { lat: 35.5606, lon: 45.4333 },
+      halabja:{lat: 35.1751, lon:45.9861},
+      baghdad: { lat: 33.3152, lon: 44.3661 },
+      dohuk: { lat: 36.8662, lon: 42.9887 }
+    };
+    
+    // DOM (Document Object Module) //
+    const citySelect = document.getElementById('city-select');
+    const showButton = document.getElementById('show-prayers');
+    const prayerTimesDiv = document.getElementById('prayer-times');
+
+    const fajrSpan = document.getElementById('fajr');
+    const sunriseSpan = document.getElementById('sunrise');
+    const dhuhrSpan = document.getElementById('dhuhr');
+    const asrSpan = document.getElementById('asr');
+    const maghribSpan = document.getElementById('maghrib');
+    const ishaSpan = document.getElementById('isha');
+    const midnightSpan = document.getElementById('midnight');
+    const lastThirdSpan = document.getElementById('lastThird');
+
+    showButton.addEventListener('click', async () => {
+      const selectedCity = citySelect.value;
+      const coords = cities[selectedCity]; // get citiy
+
+      const today = new Date();
+      const day = today.getDate();
+      const month = today.getMonth() + 1; // 12 month
+      const year = today.getFullYear();
+
+      try {
+        // Calling getPrayerTime For Todays Date
+        const data = await PrayerUtils.getPrayerTime(coords.lat, coords.lon, day, month, year, true);
+
+        fajrSpan.textContent = data.fajr;
+        sunriseSpan.textContent = data.sunrise || 'Not Avabilee';
+        dhuhrSpan.textContent = data.dhuhr;
+        asrSpan.textContent = data.asr;
+        maghribSpan.textContent = data.maghrib;
+        ishaSpan.textContent = data.isha;
+        midnightSpan.textContent = data.midnight;
+        lastThirdSpan.textContent = data.lastThird;
+
+        prayerTimesDiv.style.display = 'block';
+      } catch (error) {
+        alert('Error geting ' + error.message);
+        prayerTimesDiv.style.display = 'none';
+      }
+    });
+  </script>
+</body>
+</html>
