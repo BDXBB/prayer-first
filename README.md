@@ -14,6 +14,72 @@ npm install prayer-first
 
 ### Import the library and functions
 
+#### using CDN (Content Delivery Network)
+#### You can use prayer-first directly in the browser via CDN perfect for **client side rendering (CSR)** without needing to install any packages
+>**Note ⚠️:** This only supports **Kurdistan Region & IRAQ prayer times** when using the CDN version
+
+```js
+<script src="https://cdn.jsdelivr.net/gh/BDXBB/prayer-first@v1.0.2/cdn/main.js"></script>
+```
+
+#### This will expose the following global object
+```js
+window.PrayerUtils // or just use PrayerUtils
+```
+#### the CDN version include
+```js
+window.PrayerUtils.getPrayerTime(latitude, longitude, day, month, year, MidNightAndLastThird) // MidNightAndLastThird is bool
+```
+ <details>
+ <summary><blockquote><b>Example (Using in HTML Page)</b></blockquote></summary>
+
+```js
+<script src="https://cdn.jsdelivr.net/gh/BDXBB/prayer-first@v1.0.2/cdn/main.js"></script>
+<script>
+
+
+const latitude = 36.191196; // geographical latitude of the location in decimal Ex: Erbil latitude 
+const longitude = 44.009962; // geographical longitude of the location in decimal Ex: Erbil longitude
+const day = 15;
+const month = 8;
+const year = 2025;
+const MidNightAndLastThird = true;  // optional calculation for midnight and last third of the night
+
+ /* or it can be today
+    const today = new Date();
+    const day = today.getDate();
+    const month = today.getMonth() + 1;
+    const year = today.getFullYear();
+*/
+
+    try {
+      const data = await window.PrayerUtils.getPrayerTime(latitude, longitude, day, month, year, MidNightAndLastThird);
+
+      console.log("Prayer Times:", data); // Like data.fajr, data.sunrise ect .... You Can Easily Use it With DOM (Docoment Object Module)
+    } catch (error) {
+      console.error('Error getting prayer times:', error.message);
+    }
+  
+/*
+We have Flexible Parameter
+ Get times for a specific day
+const data = await window.PrayerUtils.getPrayerTime(36.19, 44.01, 15, 8, 2025);
+
+ Get full month (August)
+const monthData = await window.PrayerUtils.getPrayerTime(36.19, 44.01, null, 8, 2025);
+
+ Get full year
+const yearData = await window.PrayerUtils.getPrayerTime(36.19, 44.01, null, null, 2025);
+
+
+*/
+
+
+</script>
+
+```
+ </details>
+ 
 #### If you're using CommonJS (require)
 
 ```js
